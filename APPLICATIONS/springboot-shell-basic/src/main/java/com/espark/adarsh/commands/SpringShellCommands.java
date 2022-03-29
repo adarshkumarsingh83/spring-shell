@@ -1,4 +1,4 @@
-package com.espark.adarsh;
+package com.espark.adarsh.commands;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.shell.standard.ShellComponent;
@@ -7,7 +7,7 @@ import org.springframework.shell.standard.ShellOption;
 
 @Slf4j
 @ShellComponent
-public class SpringbootShell {
+public class SpringShellCommands {
 
     @ShellMethod("displaying the intput to the console")
     public String shellMessageDisplay(

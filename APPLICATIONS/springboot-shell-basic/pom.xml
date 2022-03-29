@@ -12,9 +12,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.espark.adarsh</groupId>
-    <artifactId>springboot-shell</artifactId>
+    <artifactId>springboot-shell-basic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-shell</name>
+    <name>springboot-shell-basic</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
