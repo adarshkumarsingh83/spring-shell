@@ -53,6 +53,8 @@ $ mvn spring-boot:run
 2022-03-29 12:26:47.590  INFO 5638 --- [           main] c.e.adarsh.SpringbootShellApplication    : Starting SpringbootShellApplication using Java 14.0.1 on USMB113823.attlocal.net with PID 5638 (/Users/us-guest/WORK/GIT/springboot-shell/APPLICATIONS/springboot-shell-basic/target/classes started by us-guest in /Users/us-guest/WORK/GIT/springboot-shell/APPLICATIONS/springboot-shell-basic)
 2022-03-29 12:26:47.592  INFO 5638 --- [           main] c.e.adarsh.SpringbootShellApplication    : No active profile set, falling back to 1 default profile: "default"
 2022-03-29 12:26:48.500  INFO 5638 --- [           main] c.e.adarsh.SpringbootShellApplication    : Started SpringbootShellApplication in 1.256 seconds (JVM running for 1.487)
+
+
 shell:>shell-message-display --message "welcome to espark " --name "adarsh kumar"
 2022-03-29 12:27:01.520  INFO 5638 --- [           main] c.e.adarsh.commands.SpringShellCommands  : spring boot shell message=welcome to espark  for name=adarsh kumar
 
